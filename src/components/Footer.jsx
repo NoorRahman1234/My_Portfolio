@@ -43,7 +43,7 @@ function Footer() {
       </div>
 
       <p className="mt-4 text-lg md:text-xl">
-        Copyright &copy; 2025 Ayubi. All rights reserved.
+        Copyright &copy; 2025 Noor. All rights reserved.
       </p>
     </footer>
   );
