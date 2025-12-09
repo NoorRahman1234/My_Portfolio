@@ -23,7 +23,7 @@ function Footer() {
           <FaLinkedin size={35} />
         </a>
         <a
-          href="#"
+          href="https://github.com/NoorRahman1234?tab=repositories"
           className="text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-cyan-400 transition duration-300"
         >
           <FaGithub size={35} />
@@ -35,7 +35,7 @@ function Footer() {
           <FaTelegram size={35} />
         </a>
         <a
-          href="#"
+          href="https://www.facebook.com/share/1AvZKZwWCo/"
           className="text-gray-600 dark:text-gray-400 hover:text-blue-900 dark:hover:text-cyan-400 transition duration-300"
         >
           <FaFacebook size={35} />
