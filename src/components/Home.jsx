@@ -44,14 +44,14 @@ function Home() {
                   <ul className="flex space-x-5 justify-center">
                     <li>
                       <a
-                        href="https://www.linkedin.com/in/bismillah-khan-1a650b2b0/"
+                        href="https://www.linkedin.com/in/noor-rahman-afridi-50b5972b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
                         target="_blank"
                       >
                         <BsLinkedin className="text-2xl cursor-pointer hover:text-blue-600 rounded-md" />
                       </a>
                     </li>
                     <li>
-                      <a href="https://www.facebook.com/" target="_blank">
+                      <a href="https://www.facebook.com/share/1AvZKZwWCo/" target="_blank">
                         <FaFacebookSquare className="text-2xl cursor-pointer hover:text-blue-600" />
                       </a>
                     </li>
@@ -84,7 +84,7 @@ function Home() {
               <img
                 src={pic}
                 alt=""
-                className="rounded-full md:w-[400px] md:h-[400px] w-64 h-68 border-3 border-cyan-500   shadow-lg transition-transform duration-500 hover:scale-105 hover:rotate-4 "
+                className="rounded-full md:w-[300px] md:h-[300px] w-64 h-68 border-3 border-cyan-500   shadow-lg transition-transform duration-500 hover:scale-105 hover:rotate-4 "
               />
             </div>
           </div>
